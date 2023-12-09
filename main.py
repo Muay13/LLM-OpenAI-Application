@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import pandas as pd
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def main():
     st.title("ChatGPT Downgraded version.")
